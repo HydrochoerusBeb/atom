@@ -1,0 +1,34 @@
+body{
+    font-family: sans-serif ;
+}
+.disp_f{
+    display: flex;
+}
+.jst_contentSpcB{
+    justify-content: space-between;
+}
+.padd_cent{
+    padding-left: 40vw;
+}
+
+.mlAuto{
+    margin-left: auto;
+}
+.mrAuto{
+    margin-right: auto;
+}
+.wordbreak{
+    word-break:keep-all ;
+}
+
+.width-500{
+    width: 500px;
+}
+
+.width-100{
+    width: 100px;
+}
+
+.width-200{
+    width: 200px;
+}
